@@ -6,13 +6,9 @@ Description
 
 Author & License
 - Author: Anass K
-- License: **MIT (Open Source)**
-- This project is **open source and free to use**. You can:
-  - Use it for any purpose (personal, commercial, educational, etc.)
-  - Modify and customize the code to fit your needs
-  - Redistribute it with or without changes
-  - Use it as a base for your own projects
-- See LICENSE file for complete MIT terms.
+- License: Free to use, copy and modify.
+- No warranty is provided.
+
 
 Requirements
 - Windows 10/11 or Windows Server with PowerShell.
@@ -60,4 +56,5 @@ Suggested improvements (optional)
 - Add a parameter to adjust per-port timeout.
 
 Contact
+
 - For questions or improvements, open an issue or PR in this repository (if applicable).
